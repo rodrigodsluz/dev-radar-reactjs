@@ -1,9 +1,9 @@
 ![Screenshot](d1-image.png)
 
 
+## 🔖 Layout
 
-
-
+Você pode visualizar o layout do projeto através [desse link](https://xd.adobe.com/view/f41cc902-3388-42d8-826a-8cbd874656bb-a14f/).
 
 ## :memo: Licença
 
