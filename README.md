@@ -4,18 +4,13 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar-o-projeto">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 ![Screenshot](d1-image.png)
-
-
-
-
-
 
 ## 💻 Projeto
 
@@ -24,6 +19,15 @@
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://xd.adobe.com/view/f41cc902-3388-42d8-826a-8cbd874656bb-a14f/).
+
+## 🚀 Funcionalidades
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 ## ⌨ Como executar o projeto
 
