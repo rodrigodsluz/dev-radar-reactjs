@@ -30,7 +30,9 @@ Existe uma API com dados que precisam ser consumidos, nela contém um filtro e u
 
 Para manipular e distribuir os dados foi utilizado o conceito de Context API e para utilizar a API foi usada a biblioteca Axios.
 
-Além disso, para implementar o layout visto acima foi utilizado a biblioteca Tooltip.
+Além disso, como visto acima, há um layout com diversos detalhes a serem implementados, entre eles temos: sidebar com ícones, header, o filtro e tabela com os dados, etc e para isso foi utilizado a biblioteca Tooltip.
+
+Cabe ressaltar que o site está completamente responsivo, funcionando em telas desktop, tablets e dispositivos móveis.
 
 ## ⌨ Como executar o projeto
 
