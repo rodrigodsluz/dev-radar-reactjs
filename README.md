@@ -18,7 +18,7 @@
 
 ## 💻 Projeto
 
-  Este projeto tem o intuito de testar as habilidades no desenvolvimento front-end em ReactJS.
+  Este projeto tem o intuito de avaliar as habilidades, o conhecimento e experiência no desenvolvimento front-end em ReactJS e suas bibliotecas.
 
 ## 🔖 Layout
 
