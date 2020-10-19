@@ -10,11 +10,15 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+---
+
 ![Screenshot](d1-image.png)
+
+---
 
 ## 💻 Projeto
 
-  Este projeto é um teste para testar as habilidades no desenvolvimento front-end em ReactJS.
+  Este projeto tem o intuito de testar as habilidades no desenvolvimento front-end em ReactJS.
 
 ## 🔖 Layout
 
@@ -22,12 +26,11 @@ Você pode visualizar o layout do projeto através [desse link](https://xd.adobe
 
 ## 🚀 Funcionalidades
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Existe uma API com dados que precisam ser consumidos, nela contém um filtro e uma tabela, é preciso demonstrar esses dados por meio desse filtro, de forma que ao clicar nele apareça os dados referentes.
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
+Para manipular e distribuir os dados foi utilizado o conceito de Context API e para utilizar a API foi usada a biblioteca Axios.
+
+Além disso, para implementar o layout visto acima foi utilizado a biblioteca Tooltip.
 
 ## ⌨ Como executar o projeto
 
@@ -48,7 +51,6 @@ yarn start
 Feito isso, abra o seu navegador e acesse `http://localhost:3000/`
 
 ---
-
 
 ## :memo: Licença
 
