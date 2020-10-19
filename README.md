@@ -12,6 +12,8 @@
 
 ---
 
+Para visualizar esse site já hospedado clique nesse link: https://d1-test.herokuapp.com/
+
 ![Screenshot](d1-image.png)
 
 ---
