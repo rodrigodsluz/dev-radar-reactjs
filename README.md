@@ -28,9 +28,9 @@
 DevRadar is a project that aims to connect developers close to you who work with the same technologies.
 
 
-<h1 align="center">
-    <img alt="Example" title="Example" src=".github/dev-radar.png" width="100%" />
-</h1>
+<p align="center">
+  <img alt="Frontend" src=".github/devradar.png" width="100%">
+</p>
 
 
 ## :rocket: Technologies
