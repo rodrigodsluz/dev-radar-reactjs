@@ -45,7 +45,9 @@ This project was developed with the following technologies:
 
 ## 🔖 Layout
 
-To access the layout use [Figma](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web/duplicate).
+Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
+
+Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
 
 ## :information_source: How to use
 
