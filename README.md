@@ -45,9 +45,9 @@ This project was developed with the following technologies:
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
+You can download the project layout in the format `.sketch` through [this link](.github/DevRadar.sketch).
 
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
+To open the file in the format`.sketch` on any operating system uses the tool [Figma](https://figma.com).
 
 ## :information_source: How to use
 
