@@ -7,7 +7,7 @@
 	
   <a href="https://www.linkedin.com/in/rodrigodsluz/">
     <img alt="Made by Rodrigo Duarte" src="https://img.shields.io/badge/made%20by-Rodrigo Duarte-%2304D361">
-  </a>
+  </a> 
   
   <a href="https://github.com/rodrigodsluz/dev-radar/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigodsluz/dev-radar">
