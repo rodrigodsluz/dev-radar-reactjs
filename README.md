@@ -12,7 +12,7 @@
   <a href="https://github.com/rodrigodsluz/dev-radar/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigodsluz/dev-radar">
   </a>
-
+ 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    
 <p align="center">
