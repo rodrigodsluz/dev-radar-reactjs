@@ -42,7 +42,7 @@ This project was developed with the following technologies:
 - [React][reactjs]
 - [React Native][rn]
 - [Expo][expo]
-
+ 
 ## 🔖 Layout
 
 You can download the project layout in the format `.sketch` through [this link](.github/DevRadar.sketch).
